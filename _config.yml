@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Kampi.co.za Docs
 description: Documentation for using Kampi.co.za
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://docs.kampi.co.za/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
