@@ -27,7 +27,7 @@ View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/kampi-logo.png"
 ```
 
 ## Search
@@ -68,7 +68,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+    - "//github.com/Kampicoza/Kampicoza.github.io"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -100,8 +100,8 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
-gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_repository: "https://github.com/Kampicoza/Kampicoza.github.io" # the github URL for your repo
+gh_edit_branch: "gh-pages" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 ```
@@ -144,7 +144,7 @@ See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more
 ```yaml
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
+ga_tracking: G-W9Y6WXTWCW
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 ```
 
