@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step 3 to adding my camper
+title: 3 - Get ready for renters
 parent: How to list my camper
 nav_order: 5
 ---
