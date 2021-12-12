@@ -31,7 +31,7 @@ In this phase we will setup the basics of our campers. Below we will have to dec
 
 You will have to press the **Continue** button to proceed to the next screen.
 
- ![Kampi.co.za Continue Button](/assets/images/listing-step1-continue.png){:class="img-responsive"}
+![Kampi.co.za Continue Button](/assets/images/listing-step1-continue.png){:class="img-responsive"}
 
 ### Make
 {: .no_toc }
@@ -72,7 +72,7 @@ Enter the address where your renters will collect your camper, start typing and 
 {: .no_toc }
 Verify that the pin have located your address correctly, if not move it to the correct position
 
- ![Kampi.co.za Pindrop](/assets/images/listing-step1-pindrop.png){:class="img-responsive"}
+![Kampi.co.za Pindrop](/assets/images/listing-step1-pindrop.png){:class="img-responsive"}
 
 ---
 
