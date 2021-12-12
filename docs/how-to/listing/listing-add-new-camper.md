@@ -12,4 +12,4 @@ Creating your first camper on [Kampi.co.za](https://kampi.co.za){:target="_blank
 [List your Camper](https://www.kampi.co.za/become-a-owner){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Let's get started with Step 1 of 3
-goto [Step 1](/docs/listing/listing-step1)
+goto [Step 1](/docs/how-to/listing/listing-step1)

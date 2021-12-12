@@ -88,4 +88,4 @@ Select from our list of features to let the renters know what your camper has to
 ---
 
 ## Next Steps
-goto [Step 2](/docs/listing/listing-step2)
+goto [Step 2](/docs/how-to/listing/listing-step2)

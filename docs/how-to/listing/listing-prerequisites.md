@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 ## Creating a user profile
-Let's start with creating our user profile which [here](/docs/registration/){:target="_blank"}. Do remember to comeback to this page
+Let's start with creating our user profile which [here](/docs/how-to/registration/){:target="_blank"}. Do remember to comeback to this page
 
 ## Already have an account
 You can just start off with login into your profile [here](https://www.kampi.co.za/login){:target="_blank"}

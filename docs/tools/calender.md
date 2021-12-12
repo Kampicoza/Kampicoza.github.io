@@ -7,7 +7,7 @@ nav_order: 4
 
 # Sync your Campers calender with your Google Calender
 
-Export your calender in the [management console](/docs/listing/listing-step3#calender){: target="_blank"}, the link will look like ```https://www.kampi.co.za/export-calendar?id=95``` where the 95 will be your campers ID. Once you have this URL you can add this as a web calender in Google Calender as per below.
+Export your calender in the [management console](/docs/how-to/listing/listing-step3#calender){: target="_blank"}, the link will look like ```https://www.kampi.co.za/export-calendar?id=95``` where the 95 will be your campers ID. Once you have this URL you can add this as a web calender in Google Calender as per below.
 
 
 ## Instructions from [support.google.com](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop){: target="_blank"}
