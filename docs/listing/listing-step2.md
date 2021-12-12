@@ -39,6 +39,6 @@ Give your camper a unique name, this is also used for Google search. No need to 
 ---
 
 ## Moving onto the final stages
-goto [Step 1](/docs/listing/listing-step3)
+goto [Step 3](/docs/listing/listing-step3)
 
- ![Kampi.co.za Pindrop](/assets/images/listing-step1-completed.png){:class="img-responsive"}
+ ![Kampi.co.za Pindrop](/assets/images/listing-step2-completed.png){:class="img-responsive"}
