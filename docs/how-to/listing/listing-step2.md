@@ -4,7 +4,6 @@ title: 2 - Show us your camper
 parent: Listing with Kampi.co.za
 grand_parent: How To's
 nav_order: 4
-permalink: /docs/how-to/listing/listing-step2
 ---
 
 ## Table of contents

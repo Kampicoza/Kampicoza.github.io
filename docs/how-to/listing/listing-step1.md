@@ -4,7 +4,6 @@ title: 1 - Camper Details
 parent: Listing with Kampi.co.za
 grand_parent: How To's
 nav_order: 3
-permalink: /docs/how-to/listing
 ---
 
 ## Table of contents
