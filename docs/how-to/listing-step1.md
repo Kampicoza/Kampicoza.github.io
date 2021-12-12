@@ -3,6 +3,7 @@ layout: default
 title: 1 - Camper Details
 parent: Listing with Kampi.co.za
 nav_order: 3
+permalink: /docs/how-to/listing/listing-step1/
 ---
 
 ## Table of contents
