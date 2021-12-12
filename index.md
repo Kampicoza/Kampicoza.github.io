@@ -6,7 +6,7 @@ description: "Homepage for Kampi.co.za's Docs, to ensure we make renting a carav
 permalink: /
 ---
 
- ![Kampi.co.za Banner](/public/img/banner.png){:class="img-responsive"}
+ ![Kampi.co.za Banner](/assets/images/banner.png){:class="img-responsive"}
 
 # Welcome to Kampi.co.za Doc's
 {: .fs-9 }
