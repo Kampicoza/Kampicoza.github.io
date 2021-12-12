@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Step 1
+title: Step 1 to adding my camper
 parent: How to list my camper
 nav_order: 3
 ---
+
+## Table of contents
+{: .no_toc .text-delta }
 
 ## Introduction
 In this phase we will setup the basics of our campers. Below we will have to decide which categories best describe our camper.
@@ -56,3 +59,5 @@ Select from our list of features to let the renters know what your camper has to
 
 ## Moving onto Step 2 of 3
 goto [Step 1](/docs/listing/listing-step2)
+
+ ![Kampi.co.za Pindrop](/assets/images/listing-step1-completed.png){:class="img-responsive"}

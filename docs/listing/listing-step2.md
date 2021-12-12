@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step 2
+title: Step 2 to adding my camper
 parent: How to list my camper
 nav_order: 4
 ---
