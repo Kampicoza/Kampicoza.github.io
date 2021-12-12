@@ -8,6 +8,11 @@ nav_order: 3
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
+---
+
 ## Introduction
 In this phase we will setup the basics of our campers. Below we will have to decide which categories best describe our camper.
 
