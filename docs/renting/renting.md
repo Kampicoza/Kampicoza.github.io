@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to rent a caravan
+title: Rent your Adventure
 nav_order: 4
 has_children: true
 permalink: /docs/renting

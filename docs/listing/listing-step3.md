@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3 - Get ready for renters
-parent: How to list my camper
+parent: Listing with Kampi.co.za
 nav_order: 5
 ---
 

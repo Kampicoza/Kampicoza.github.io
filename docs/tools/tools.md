@@ -9,4 +9,4 @@ permalink: /docs/tools
 ## Introduction
 [Kampi.co.za](https://kampi.co.za){:target="_blank"} and partners has developed and will continue to develop a tools platform to help you with everything [Kampi.co.za](https://kampi.co.za){:target="_blank"} related.
 
-[Kampi Tools](https://tools.kampi.co.za){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
+[Kampi Tools](https://tools.kampi.co.za){: target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

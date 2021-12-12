@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to list my camper
+title: Listing with Kampi.co.za
 nav_order: 5
 has_children: true
 permalink: /docs/listing

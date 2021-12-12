@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prerequisites
-parent: How to rent a caravan
+parent: Rent your Adventure
 nav_order: 1
 ---
 
