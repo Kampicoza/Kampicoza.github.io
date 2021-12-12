@@ -17,6 +17,7 @@ title: Kampi.co.za Docs
 description: Documentation for using Kampi.co.za
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://docs.kampi.co.za/" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/images/kampi-logo.png"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
