@@ -2,6 +2,7 @@
 layout: default
 title: 3 - Get ready for renters
 parent: Listing with Kampi.co.za
+grand_parent: How To's
 nav_order: 5
 permalink: /docs/how-to/listing/listing-step3/
 ---

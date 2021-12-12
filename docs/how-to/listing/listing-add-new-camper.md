@@ -2,6 +2,7 @@
 layout: default
 title: Add your first camper
 parent: Listing with Kampi.co.za
+grand_parent: How To's
 nav_order: 2
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Listing with Kampi.co.za
-nav_order: 3
 parent: How To's
 has_children: true
+nav_order: 3
 ---
 
 ## Kampi.co.za is your worry free camping rental platform
