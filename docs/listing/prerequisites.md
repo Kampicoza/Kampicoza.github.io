@@ -6,13 +6,13 @@ nav_order: 1
 ---
 
 ## Creating a user profile
-Let's start with creating our user profile which [here](/docs/registration/). Do remember to comeback to this page
+Let's start with creating our user profile which [here](/docs/registration/){:target="_blank"}. Do remember to comeback to this page
 
 ## Already have an account
-You can just start off with login into your profile [here](https://www.kampi.co.za/login)
+You can just start off with login into your profile [here](https://www.kampi.co.za/login){:target="_blank"}
 
 ## What should I prepare ahead of time?
-You do not have to prepare anything ahead of time to lists for camper on [Kampie.co.za](https://kampi.co.za). There is a few things that will make this process quicker if you prepare ahead of time.
+You do not have to prepare anything ahead of time to lists for camper on [Kampie.co.za](https://kampi.co.za){:target="_blank"}. There is a few things that will make this process quicker if you prepare ahead of time.
 
 ### Documents and Images to have ready
 * Copy of your campers Natis documents

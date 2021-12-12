@@ -77,11 +77,14 @@ Verify that the pin have located your address correctly, if not move it to the c
 ---
 
 ## Camper Features
-Select from our list of features to let the renters know what your camper has to offer for them. If you want to add features that is not present on [Kampi.co.za](https://kampi.co.za) feel free to let us know at [support@kampi.co.za](mailto:support@kampi.co.za)
+Select from our list of features to let the renters know what your camper has to offer for them. If you want to add features that is not present on [Kampi.co.za](https://kampi.co.za){:target="_blank"} feel free to let us know at [support@kampi.co.za](mailto:support@kampi.co.za)
 
+---
+
+ ![Kampi.co.za Pindrop](/assets/images/listing-step1-completed.png){:class="img-responsive"}
+
+ 
 ---
 
 ## Next Steps
 goto [Step 2](/docs/listing/listing-step2)
-
- ![Kampi.co.za Pindrop](/assets/images/listing-step1-completed.png){:class="img-responsive"}

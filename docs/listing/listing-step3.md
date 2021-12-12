@@ -40,7 +40,7 @@ You can also set when you are more comfertable for renters to arrange pickup of 
 ## Booking Window & Cancellation
 
 ### Booking Windows
-By default **All Future Date** will be selected, but you can change this to a time period a little closer. This will stop renters from making booking to far ahead in the future. [Kampi.co.za](https://kampi.co.za) recommend to change this to **6 Months into the future**.
+By default **All Future Date** will be selected, but you can change this to a time period a little closer. This will stop renters from making booking to far ahead in the future. [Kampi.co.za](https://kampi.co.za){:target="_blank"} recommend to change this to **6 Months into the future**.
 
 ### Cancellation
 By default **Strict** policy is selected, you have 3 options:
@@ -48,20 +48,20 @@ By default **Strict** policy is selected, you have 3 options:
 * Moderate
 * Strict
 
-You can read up on these on our [Cancellation Policies](https://www.kampi.co.za/cancellation-policies/) page.
+You can read up on these on our [Cancellation Policies](https://www.kampi.co.za/cancellation-policies/){:target="_blank"} page.
 
 ---
 
 ## Trip Length
-Set the minimum and maximum trip lengths that you will allow for your campers. [Kampi.co.za](https://kampi.co.za) recommend that you start off with a minimum trip length of 3 days, and adjust accordingly for the holiday seasons.
+Set the minimum and maximum trip lengths that you will allow for your campers. [Kampi.co.za](https://kampi.co.za){:target="_blank"} recommend that you start off with a minimum trip length of 3 days, and adjust accordingly for the holiday seasons.
 
 ---
 
 ## Pricing
-You can use our online [calculator](https://tools.kampi.co.za/dayrate) to help you decide what to ask for your camper per day. We also have a calculator showing you how the fees work on [Kampi.co.za](https://kampi.co.za).
+You can use our online [calculator](https://tools.kampi.co.za/dayrate){:target="_blank"} to help you decide what to ask for your camper per day. We also have a calculator showing you how the fees work on [Kampi.co.za](https://kampi.co.za){:target="_blank"}.
 
 ### Base Price
-Yo as the owner will alway be incontrol of this pricing, the online [rate calculator](https://tools.kampi.co.za/dayrate) can be used to help you decide. YOu can then also use our [fees calculator](https://tools.kampi.co.za/fees) to see what you will get out.
+Yo as the owner will alway be incontrol of this pricing, the online [rate calculator](https://tools.kampi.co.za/dayrate){:target="_blank"} can be used to help you decide. YOu can then also use our [fees calculator](https://tools.kampi.co.za/fees){:target="_blank"} to see what you will get out.
 
 ### Cleaning Fee
 You have the option to levy a cleaning fee between R0 and R400 per trip.
@@ -69,7 +69,7 @@ You have the option to levy a cleaning fee between R0 and R400 per trip.
 ---
 
 ## Calender
-You never need to unpublish your camper on [Kampi.co.za](https://kampi.co.za). By unpublishing your camper Google will lose record of your camper and you might negativly impact your future bookings. When you want to use your camper for own breakaway or to borrow it to a family member at a disconted price.
+You never need to unpublish your camper on [Kampi.co.za](https://kampi.co.za){:target="_blank"}. By unpublishing your camper Google will lose record of your camper and you might negativly impact your future bookings. When you want to use your camper for own breakaway or to borrow it to a family member at a disconted price.
 
 ### Block Dates
 Select the dates when you want to make your camper unavaialble for renters.
@@ -80,12 +80,12 @@ Here you can change the prices for certian dates, you can use this to increase o
 ---
 
 ## Discounts
-[Kampi.co.za](https://kampi.co.za) allows you to set a discounted rate for longer trips. This will automatically be applied to either weekly or monthly bookings based on what discount percentage you have selected.
+[Kampi.co.za](https://kampi.co.za){:target="_blank"} allows you to set a discounted rate for longer trips. This will automatically be applied to either weekly or monthly bookings based on what discount percentage you have selected.
 
 ---
 
 ## Instant Booking
-[Kampi.co.za](https://kampi.co.za) recommends you select the **No one. All renters must send reservation requests.** option to avoid renters from proceeding with a booking before you have talked to them. Please note that all communications has to be done on the [Kampi.co.za](https://kampi.co.za) platform for security purposes.
+[Kampi.co.za](https://kampi.co.za){:target="_blank"} recommends you select the **No one. All renters must send reservation requests.** option to avoid renters from proceeding with a booking before you have talked to them. Please note that all communications has to be done on the [Kampi.co.za](https://kampi.co.za){:target="_blank"} platform for security purposes.
 
 ### Instant Booking
 WHen you want to truely stand out from your competition, you can set your camper to **Instant Booking** this means that a potential renter does not require your approval. Consumers enjoy getting instant feedback and this generally increase your campers popularity, but can also bring extra complications.
@@ -95,9 +95,9 @@ WHen you want to truely stand out from your competition, you can set your camper
 All trips are fully insured on [Kampi.co.za](https://kampi.co.za), but it remains te responsibility of the camper owner to ensure all the correct documentation is uploaded and that the renter holds the correct license. We offer 3 options for our camper owners.
 
 ### No Insurance required
-Use this option if your insurance is taken care off and you do not require [Kampi.co.za](https://kampi.co.za) to assist with this.
+Use this option if your insurance is taken care off and you do not require [Kampi.co.za](https://kampi.co.za){:target="_blank"} to assist with this.
 
-### [Kampi.co.za](https://kampi.co.za) to arrange Insurance
+### [Kampi.co.za](https://kampi.co.za){:target="_blank"} to arrange Insurance
 When selecting this option you will have to upload a copy of your Natis documentation and list the replacement value with all the extras incase of total loss. We do not allow you to insure a camper for more than you **base day rate / 0.008**.
 
 ### Want to have my own rental insurance

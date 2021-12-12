@@ -30,4 +30,5 @@ Tyres, Registrations and upgrades can be paid for with self earned profits.
 With kampi.co.za it is possible to earn thousands every year. Hassle-free.
 
 ## Get started with South Africa's only person to person camping rental platform today.
-[View all our Campers](https://kampi.co.za/s){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [List your Camper](https://www.kampi.co.za/become-a-owner){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View all our Campers](https://kampi.co.za/s){: target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [List your Camper](https://www.kampi.co.za/become-a-owner){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
+

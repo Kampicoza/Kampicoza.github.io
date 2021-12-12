@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Managing my Profile
+title: Managing my profile
 nav_order: 3
 ---
 
