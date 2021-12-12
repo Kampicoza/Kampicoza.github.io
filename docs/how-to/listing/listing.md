@@ -4,7 +4,6 @@ title: Listing with Kampi.co.za
 nav_order: 3
 parent: How To's
 has_children: true
-permalink: /docs/how-to/listing
 ---
 
 ## Kampi.co.za is your worry free camping rental platform
