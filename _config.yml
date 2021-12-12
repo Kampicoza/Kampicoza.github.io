@@ -57,7 +57,7 @@ search:
   rel_url: true
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
-  button: false
+  button: true
 
 # Enable or disable heading anchors
 heading_anchors: true
@@ -68,7 +68,7 @@ aux_links:
     - "https://kampi.co.za/s"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
@@ -90,7 +90,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
+gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/Kampicoza/Kampicoza.github.io" # the github URL for your repo
 gh_edit_branch: "gh-pages" # the branch that your docs is served from
