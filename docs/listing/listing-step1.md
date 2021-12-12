@@ -16,7 +16,9 @@ nav_order: 3
 ## Introduction
 In this phase we will setup the basics of our campers. Below we will have to decide which categories best describe our camper.
 
-## Screen 1 Basic Information
+---
+
+## Basic Information
 
 ### Camper Type
 {: .no_toc }
@@ -54,11 +56,15 @@ How many people does your camper sleep? Here you can select between 1 and 12.
 #### You will have to press the **Continue** button to proceed to the next screen.
 {: .no_toc }
 
+---
+
 ## Address
 
 ### Address
 {: .no_toc }
 Enter the address where your renters will collect your camper, start typing and let google do the rest for you. Once you see your address in the dropdown select it. The screen will change for you to verify that everything is correct and for you to change what needs to be changed.
+
+---
 
 ## Map
 
@@ -68,8 +74,12 @@ Verify that the pin have located your address correctly, if not move it to the c
 
  ![Kampi.co.za Pindrop](/assets/images/listing-step1-pindrop.png){:class="img-responsive"}
 
+---
+
 ## Camper Features
 Select from our list of features to let the renters know what your camper has to offer for them. If you want to add features that is not present on [Kampi.co.za](https://kampi.co.za) feel free to let us know at [support@kampi.co.za](mailto:support@kampi.co.za)
+
+---
 
 ## Next Steps
 goto [Step 1](/docs/listing/listing-step2)
