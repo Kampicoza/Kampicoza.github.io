@@ -7,4 +7,17 @@ nav_order: 4
 
 # Sync your Campers calender with your Google Calender
 
-Export your calender in the management console [Kampi.co.za](/docs/listing/listing-step3#Calender){: target="_blank"}, the link will look like ```https://www.kampi.co.za/export-calendar?id=95``` where the 95 will be your campers ID. Once you have this URL you can add this as a web calender in Google Calender as per below.
+Export your calender in the [management console](/docs/listing/listing-step3#calender){: target="_blank"}, the link will look like ```https://www.kampi.co.za/export-calendar?id=95``` where the 95 will be your campers ID. Once you have this URL you can add this as a web calender in Google Calender as per below.
+
+
+## Instructions from [support.google.com](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop){: target="_blank"}
+```
+Use a link to add a public calendar
+Important: You can only add a calendar using a link if the other person's calendar is public. Learn more about public calendars.
+
+On your computer, open Google Calendar.
+On the left, next to "Other calendars," click Add Add other calendars and then From URL.
+Enter the calendar's address.
+Click Add calendar. The calendar appears on the left, under "Other calendars."
+Tip: It might take up to 12 hours for changes to show in your Google Calendar.
+```
