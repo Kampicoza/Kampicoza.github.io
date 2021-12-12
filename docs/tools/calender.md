@@ -21,5 +21,5 @@ Enter the calendar's address.
 Click Add calendar. The calendar appears on the left, under "Other calendars."
 Tip: It might take up to 12 hours for changes to show in your Google Calendar.
 ```
-
-<iframe src="https://calendar.google.com/calendar/embed?src=3nft18ke4m3se3kcfpa3sra7r84pou8b%40import.calendar.google.com&ctz=Africa%2FMaputo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<!-- 
+<iframe src="https://calendar.google.com/calendar/embed?src=3nft18ke4m3se3kcfpa3sra7r84pou8b%40import.calendar.google.com&ctz=Africa%2FMaputo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
