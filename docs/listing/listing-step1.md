@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1: Camper Details
+title: 1 - Camper Details
 parent: How to list my camper
 nav_order: 3
 ---
@@ -14,13 +14,11 @@ nav_order: 3
 ---
 
 ## Introduction
-{: .text-delta }
 In this phase we will setup the basics of our campers. Below we will have to decide which categories best describe our camper.
 
 ---
 
 ## Basic Information
-{: .text-delta }
 
 ### Camper Type
 {: .no_toc }
@@ -61,7 +59,6 @@ How many people does your camper sleep? Here you can select between 1 and 12.
 ---
 
 ## Address
-{: .text-delta }
 
 ### Address
 {: .no_toc }
@@ -70,7 +67,6 @@ Enter the address where your renters will collect your camper, start typing and 
 ---
 
 ## Map
-{: .text-delta }
 
 ### Pindrop
 {: .no_toc }
@@ -81,7 +77,6 @@ Verify that the pin have located your address correctly, if not move it to the c
 ---
 
 ## Camper Features
-{: .text-delta }
 Select from our list of features to let the renters know what your camper has to offer for them. If you want to add features that is not present on [Kampi.co.za](https://kampi.co.za) feel free to let us know at [support@kampi.co.za](mailto:support@kampi.co.za)
 
 ---
