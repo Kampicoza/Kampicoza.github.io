@@ -17,7 +17,6 @@ title: Kampi.co.za Docs
 description: Documentation for using Kampi.co.za
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://docs.kampi.co.za/" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/images/kampi-logo.png"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
@@ -31,7 +30,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/kampi-logo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
