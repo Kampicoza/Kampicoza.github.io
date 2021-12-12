@@ -19,14 +19,14 @@ Owners are royalty to us. We'll give you maximum exposure, guidance, ideas and s
 ### Register your growing fleet of campers, caravans and motorhomes
 Why not make a business out of it? Start small and grow your fleet once you have seen the results. We make it easy to rent and easy to earn, with fast payouts.
 
-#### With no monthly fees, free registration and only 10%-15% commission on successful bookings, it really is a no-brainer.
+## With no monthly fees, free registration and only 10%-15% commission on successful bookings, it really is a no-brainer.
 
-#### All that time that your vehicle stands around unused, is an opportunity for you to earn.
+## All that time that your vehicle stands around unused, is an opportunity for you to earn.
 
-##### Easily cover annual maintenance costs
+#### Easily cover annual maintenance costs
 Tyres, Registrations and upgrades can be paid for with self earned profits.
 
-##### Let your vehicle pay for your next holiday.
+#### Let your vehicle pay for your next holiday.
 With kampi.co.za it is possible to earn thousands every year. Hassle-free.
 
 ## Get started with South Africa's only person to person camping rental platform today.
