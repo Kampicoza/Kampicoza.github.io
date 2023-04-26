@@ -273,6 +273,14 @@ Owners are required to be reasonable with their claims and ensure that
 the amount claimed is fair and reasonable. [Kampi.co.za](https://kampi.co.za){:target="_blank"} will act as a
 mediator between the owner and renter in the event of a dispute.
 
+## Disputed Claims
+
+In the event of a claim, Kampi.co.za may take up to three (3) weeks to 
+mediate the claim if it is disputed by either party. During this period, 
+Kampi.co.za may require additional information or documentation from both 
+parties to ensure a fair and just resolution. Kampi.co.za reserves the right 
+to deny any claim if the necessary information or documentation is not provided.
+
 ## Dirty Return of Camper
 
 If the camper is returned in an excessively dirty state, which requires
