@@ -19,11 +19,25 @@ when listing with [Kampi.co.za](https://kampi.co.za){:target="_blank"}, and it c
 
 To secure the rental, [Kampi.co.za](https://kampi.co.za){:target="_blank"} requests a deposit of R5000 for local
 trips and R10000 for cross-border trips. In the event of an insurance
-claim, the R5000 deposit will be used to cover the R5000 excess. The
+claim, the R5000 deposit will be used to cover upto R5000 of the excess. The
 excess of R5000 will apply to each incident. If multiple incidents
 occur, the excess will be multiplied by the number of incidents and will
 not be covered by [Kampi.co.za](https://kampi.co.za){:target="_blank"}. The excess is the responsibility of the
 owner of the camper.
+
+## Excess
+
+ - Excess Amount
+In the event of an insurance claim, an excess amount shall apply. The excess represents the portion of the claim that the renter or owner is responsible for. For each incident, the excess will be either R5000 or 10% of the total claim amount, whichever is greater.
+
+ - Calculation of Excess
+The excess for a claim will be determined by comparing the actual claim amount to the two aforementioned options: R5000 or 10% of the total claim amount. The higher value between the two shall be considered the applicable excess for the claim.
+
+ - Application of Excess
+The excess amount shall be deducted from any payment made by Kampi.co.za for the claim. It is the responsibility of the renter or owner to cover the excess before receiving any compensation for the claim.
+
+ - Multiple Incidents
+In the case of multiple incidents occurring during the rental period, each incident will have its own separate excess amount calculated based on the total claim amount associated with that particular incident. The excess will be applied individually to each incident, thereby ensuring the proportional allocation of responsibility.
 
 ## Market Value of the Camper
 
@@ -293,7 +307,7 @@ The breakage deposit may be used if the renter neglects to return the
 camper on time. In addition, if the owner has to collect the camper, any
 costs incurred may also be claimed from the breakage deposit.
 
-## [Kampi.co.za](https://kampi.co.za){:target="_blank"} Fee {#Kampi.co.za-fee .unnumbered}
+## [Kampi.co.za](https://kampi.co.za)
 
 [Kampi.co.za](https://kampi.co.za){:target="_blank"} will deduct a R250 fee from the breakage deposit for each
 claim submitted by the owner.
