@@ -309,8 +309,7 @@ costs incurred may also be claimed from the breakage deposit.
 
 ## [Kampi.co.za](https://kampi.co.za)
 
-[Kampi.co.za](https://kampi.co.za){:target="_blank"} will deduct a R250 fee from the breakage deposit for each
-claim submitted by the owner.
+ When owners submit a claim, [Kampi.co.za](https://kampi.co.za){:target="_blank"} will deduct an administration and facilitation fee of R250 from the breakage deposit. Renters are responsible for paying this fee.
 
 ## Process of Claiming from Breakage Deposit 
 
