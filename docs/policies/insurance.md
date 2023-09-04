@@ -21,19 +21,19 @@ To secure the rental, [Kampi.co.za](https://kampi.co.za){:target="_blank"} reque
 
 ## Excess
 
- - Excess Amount
+ - Excess Amount:
 In the event of an insurance claim, an excess amount shall apply. The excess represents the portion of the claim that the renter or owner is responsible for. For each incident, the excess will be either R5000 or 10% of the total claim amount, whichever is greater.
 
- - Calculation of Excess
+ - Calculation of Excess:
 The excess for a claim will be determined by comparing the actual claim amount to the two aforementioned options: R5000 or 10% of the total claim amount. The higher value between the two shall be considered the applicable excess for the claim.
 
- - Application of Excess
+ - Application of Excess:
 The excess amount shall be deducted from any payment made by Kampi.co.za for the claim. It is the responsibility of the renter or owner to cover the excess before receiving any compensation for the claim.
 
- - Multiple Incidents
+ - Multiple Incidents:
 In the case of multiple incidents occurring during the rental period, each incident will have its own separate excess amount calculated based on the total claim amount associated with that particular incident. The excess will be applied individually to each incident, thereby ensuring the proportional allocation of responsibility.
 
- - Excess Liability
+ - Excess Liability:
 Kampi.co.za cannot be held liable for the excess amount of 10% or the minimum specified amounts for local and cross-border trips. Therefore, renters are obligated to pay this excess as specified in the terms and conditions of the rental agreement. In the event that a renter fails to make payment for the applicable excess within the stipulated time frame, Kampi.co.za reserves the right to take legal action against the renter. Legal action may include, but is not limited to, pursuing the outstanding excess through legal channels and recovering any associated costs incurred by Kampi.co.za. We strongly advise all renters to fulfill their financial obligations promptly to avoid any legal consequences.
 
 ## Market Value of the Camper
