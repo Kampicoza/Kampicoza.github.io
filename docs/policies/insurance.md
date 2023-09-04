@@ -39,6 +39,10 @@ The excess amount shall be deducted from any payment made by Kampi.co.za for the
  - Multiple Incidents
 In the case of multiple incidents occurring during the rental period, each incident will have its own separate excess amount calculated based on the total claim amount associated with that particular incident. The excess will be applied individually to each incident, thereby ensuring the proportional allocation of responsibility.
 
+ - Excess Liability
+
+Kampi.co.za cannot be held liable for the excess amount of 10% or the minimum specified amounts for local and cross-border trips. Therefore, renters are obligated to pay this excess as specified in the terms and conditions of the rental agreement. In the event that a renter fails to make payment for the applicable excess within the stipulated time frame, Kampi.co.za reserves the right to take legal action against the renter. Legal action may include, but is not limited to, pursuing the outstanding excess through legal channels and recovering any associated costs incurred by Kampi.co.za. We strongly advise all renters to fulfill their financial obligations promptly to avoid any legal consequences.
+
 ## Market Value of the Camper
 
 The total amount that [Kampi.co.za](https://kampi.co.za){:target="_blank"} is liable to pay in the event of a
